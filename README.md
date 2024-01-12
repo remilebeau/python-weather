@@ -11,4 +11,6 @@ A Python web app that reports the weather of a given city. If the entered city i
 - Python
 - Flask
 
-Credit to [Dave Gray Teaches Code](https://courses.davegray.codes/) for project idea and tutorial.
+Credit to [Dave Gray Teaches Code](https://courses.davegray.codes/) for project design and tutorial.
+
+[Link to Dave Gray's Python Course](https://www.youtube.com/watch?v=H2EJuAcrZYU)
